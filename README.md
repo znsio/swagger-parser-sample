@@ -7,7 +7,7 @@
    ./gradlew run
     ```
 
-2. Execute the [`ReferenceTest.kt`](src/test/kotlin/ReferenceTest.kt) file and observer the assertions:
+2. Execute the [`ReferenceTest.kt`](src/test/kotlin/ReferenceTest.kt) file and observe the assertions:
    ```shell
    ./gradlew test
     ```
@@ -31,7 +31,7 @@ The examples in both `V1` and `V2` should be parsed consistently as JSON Object.
 
 In `V1`, where the operations are referenced:
 ```shell
-V1 Example; Value: {id=1, name=XYZ Product, inventory=100}
+V1 Example Value: {id=1, name=XYZ Product, inventory=100}
 V1 Example Value Type: class java.util.LinkedHashMap
 ```
 
